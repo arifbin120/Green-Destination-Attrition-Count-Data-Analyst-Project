@@ -1,1 +1,0 @@
-# Green-Destination-Attrition-Count-Data-Analyst-Project
