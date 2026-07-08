@@ -22,7 +22,7 @@ Green Destinations was experiencing increased employee attrition. The HR Directo
 | Tool | Purpose |
 |------|---------|
 | **Tableau** | Interactive dashboard creation and visualization |
-| **Excel / SQL** | Data wrangling, cleaning, and sourcing |
+| **Excel  | Data wrangling, cleaning, and sourcing |
 
 ---
 
